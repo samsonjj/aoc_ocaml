@@ -1,6 +1,0 @@
-# dune init proj day_2
-# OCAMLPARAM: unset
-# Shared cache: enabled-except-user-rules
-# Shared cache location: /Users/js/.cache/dune/db
-# Workspace root: /Users/js/dev/learn_ocaml/aoc/2020/day_2
-# Auto-detected concurrency: 14
